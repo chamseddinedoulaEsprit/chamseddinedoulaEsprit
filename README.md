@@ -22,6 +22,15 @@ Je suis un développeur curieux et déterminé, passionné par la création de s
 
 ---
 
+## 📜 Certifications
+
+- **Supervised Learning with scikit-learn** - DataCamp (Complété le 13 octobre 2025, 4 heures)  
+- **Understanding Artificial Intelligence** - DataCamp (Complété le 13 octobre 2025, 2 heures)  
+- **Unsupervised Learning in Python** - DataCamp (Complété le 16 octobre 2025, 4 heures)  
+- **Preprocessing for Machine Learning in Python** - DataCamp (Complété le 14 octobre 2025, 4 heures)  
+
+---
+
 ## 📂 Projets populaires
 
 - [Plogg---Syst-me-de-Gestion-des-Facturations](https://github.com/chamseddinedoulaEsprit/Plogg---Syst-me-de-Gestion-des-Facturations)  
