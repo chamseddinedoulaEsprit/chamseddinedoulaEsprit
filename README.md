@@ -7,7 +7,6 @@
 
 🎓 Computer Engineering student specializing in **Data Science at ESPRIT**.  
 🎓 Bachelor's Degree in **Software Engineering**.  
-🎓 Also pursuing a Professional Master's in Software Engineering at **ISIMM**.
 
 📍 Tunis, Tunisia  
 🚀 Seeking a **PFE Internship in AI / Software Engineering — 2027**
