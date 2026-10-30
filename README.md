@@ -12,7 +12,7 @@
 🚀 Seeking a **PFE Internship in AI / Software Engineering — 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamseddine-doula-56485327a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://chamseddinedoulaEsprit.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat-square&logo=github&logoColor=white)](https://chamseddinedoulaesprit.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chamseddine.doula@esprit.tn)
 
 ---
